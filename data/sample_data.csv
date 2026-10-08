@@ -1,0 +1,11 @@
+url,label
+https://example.com,0
+https://university.edu,0
+https://github.com,0
+https://wikipedia.org,0
+http://secure-login-example.com/account/verify,1
+http://account-verification-example.com/login,1
+http://192.168.1.10/login,1
+http://paypal-login-example.com/confirm,1
+http://update-security-example.com/password,1
+https://openai.com,0
